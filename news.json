@@ -1,5 +1,12 @@
 [
   {
+    "id": "compromiso-juventud-vp",
+    "title": "Compromiso con la Juventud: Reunión con la Vicepresidenta",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/compromiso.jpeg",
+    "content": "<p>La Secretaría Ejecutiva del Servicio Cívico reafirma su compromiso con el desarrollo de la juventud guatemalteca. En una reunión con la vicepresidenta <strong>Karin Herrera</strong>, se discutieron estrategias para fortalecer el <em>Servicio Cívico</em> y generar mayores oportunidades para los jóvenes en el país.</p><p>Este encuentro busca consolidar esfuerzos interinstitucionales para ampliar la cobertura de programas que permitan la participación activa de la juventud en el desarrollo social y comunitario. Con estas acciones, se refuerza el papel del Servicio Cívico como una herramienta de crecimiento y aprendizaje para los ciudadanos guatemaltecos.</p>",
+    "date": "25/02/2025"
+  },
+  {
     "id": "reunion-se-conred-2025",
     "title": "Reunión para Implementación del Proyecto de Servicio Cívico SE-CONRED 2025",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/reunion.jpeg",
