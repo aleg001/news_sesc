@@ -1,5 +1,19 @@
 [
   {
+    "id": "junta-local-el-progreso",
+    "title": "Primera Sesión Ordinaria de Junta Local en El Progreso",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/guasta.jpeg",
+    "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong>, en coordinación con la Gobernación de El Progreso, llevó a cabo la <em>Primera Sesión Ordinaria de Junta Local</em>, reafirmando el compromiso de fortalecer el trabajo conjunto para ampliar las oportunidades de desarrollo para la juventud del departamento.</p><p>La reunión, realizada en la cabecera departamental de Guastatoya, destacó la importancia de la coordinación local para garantizar el adecuado funcionamiento del Servicio Cívico y su impacto positivo en la formación y proyección de los jóvenes guatemaltecos.</p>",
+    "date": "10/03/2025"
+  },
+  {
+    "id": "reforma-ley-servicio-civico",
+    "title": "Avanza la Reforma a la Ley de Servicio Cívico",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/ley.jpeg",
+    "content": "<p>En respuesta a las demandas de la juventud guatemalteca, la <strong>Junta Nacional del Servicio Cívico</strong> participó en una reunión técnica en el <em>Congreso de la República</em> para analizar propuestas de reforma a la <em>Ley del Servicio Cívico</em>. Este proceso busca modernizar el marco normativo y fortalecer la participación juvenil en el desarrollo del país.</p><p>El diputado <strong>Faver Salazar</strong> abrió el espacio de diálogo, permitiendo la exposición de diversas perspectivas sobre la actualización de la normativa. La iniciativa reafirma el compromiso de las instituciones en garantizar que el Servicio Cívico responda a las necesidades y aspiraciones de la juventud guatemalteca.</p>",
+    "date": "06/03/2025"
+  },
+  {
     "id": "primera-sesion-junta-nacional-2025",
     "title": "Primera Sesión de la Junta Nacional de Servicio Cívico 2025",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/junta.png",
