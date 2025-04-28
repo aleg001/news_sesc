@@ -1,17 +1,25 @@
 [
   {
+    "id": "sesion-informativa-quiche",
+    "title": "Sesión Informativa en Quiché sobre Avances Institucionales",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/quiche.png",
+    "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> llevó a cabo una <em>Sesión Informativa</em> en el departamento de <strong>Quiché</strong>, dirigida a actores institucionales, con el propósito de dar a conocer los avances alcanzados en materia de fortalecimiento del Servicio Cívico en la región.</p><p>Durante la jornada se presentaron los resultados de las acciones emprendidas para ampliar la cobertura del programa, mejorar los procesos de monitoreo y fortalecer la articulación interinstitucional, en cumplimiento con la Ley del Servicio Cívico y su Reglamento.</p><p>Asimismo, se abordaron estrategias para incentivar la participación juvenil y se destacaron los logros obtenidos gracias al trabajo conjunto entre las instituciones locales, las autoridades comunitarias y la Secretaría Ejecutiva.</p><p>Con estas acciones, la <strong>Secretaría Ejecutiva del Servicio Cívico</strong> reafirma su compromiso de seguir trabajando en favor de la juventud guatemalteca, promoviendo oportunidades de formación y desarrollo a través del Servicio Cívico Social.</p>",
+    "date": "25/04/2025"
+  },
+  {
     "id": "monitoreo-inguat-panajachel",
     "title": "Monitoreo a Servidores Cívicos en INGUAT Panajachel",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/ingpana.png",
     "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> realizó una jornada de monitoreo en las instalaciones del <strong>Instituto Guatemalteco de Turismo (INGUAT)</strong> en Panajachel, Sololá, donde jóvenes servidores cívicos prestan su servicio en apoyo a las actividades de promoción turística y desarrollo local.</p><p>Durante la supervisión, se verificó el cumplimiento de los objetivos establecidos en los proyectos de Servicio Cívico Social, reafirmando el compromiso de fomentar la participación juvenil en la promoción cultural y turística del país.</p><p>La actividad forma parte de los procesos de acompañamiento que buscan fortalecer las capacidades de los jóvenes, asegurando su formación integral y el cumplimiento de las directrices establecidas en la Ley del Servicio Cívico y su Reglamento.</p><p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> agradece la colaboración de INGUAT y reitera su misión de impulsar espacios de formación y servicio para la juventud guatemalteca.</p>",
     "date": "23/04/2025"
   },
+
   {
     "id": "empoderando-juventud-sbs",
     "title": "Inauguración del Proyecto 'Empoderando a la Juventud'",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/sbs.jpeg",
     "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> acompañó a la organización <strong>Somos SBS</strong> en la inauguración del proyecto <em>'Empoderando a la Juventud a través de Paz, Movilidad Humana y Salud Integral'</em>.</p><p>Mediante actividades culturales y deportivas, las y los servidores cívicos contribuirán a la construcción de una cultura de paz y a la prevención de la violencia, fortaleciendo el tejido social y promoviendo entornos seguros para la juventud guatemalteca.</p><p>Este esfuerzo reafirma el compromiso interinstitucional de brindar espacios de participación activa, formación integral y desarrollo de capacidades para las y los jóvenes, impulsando su papel protagónico en la transformación positiva de sus comunidades.</p>",
-    "date": "25/04/2025"
+    "date": "21/04/2025"
   },
   {
     "id": "reunion-junta-local-escuintla",
