@@ -1,5 +1,12 @@
 [
   {
+    "id": "monitoreo-inguat-panajachel",
+    "title": "Monitoreo a Servidores Cívicos en INGUAT Panajachel",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/ingpana.png",
+    "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> realizó una jornada de monitoreo en las instalaciones del <strong>Instituto Guatemalteco de Turismo (INGUAT)</strong> en Panajachel, Sololá, donde jóvenes servidores cívicos prestan su servicio en apoyo a las actividades de promoción turística y desarrollo local.</p><p>Durante la supervisión, se verificó el cumplimiento de los objetivos establecidos en los proyectos de Servicio Cívico Social, reafirmando el compromiso de fomentar la participación juvenil en la promoción cultural y turística del país.</p><p>La actividad forma parte de los procesos de acompañamiento que buscan fortalecer las capacidades de los jóvenes, asegurando su formación integral y el cumplimiento de las directrices establecidas en la Ley del Servicio Cívico y su Reglamento.</p><p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> agradece la colaboración de INGUAT y reitera su misión de impulsar espacios de formación y servicio para la juventud guatemalteca.</p>",
+    "date": "23/04/2025"
+  },
+  {
     "id": "empoderando-juventud-sbs",
     "title": "Inauguración del Proyecto 'Empoderando a la Juventud'",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/sbs.jpeg",
