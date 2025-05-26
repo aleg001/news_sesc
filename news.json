@@ -1,5 +1,12 @@
 [
   {
+    "id": "stand-prevencion-zona21",
+    "title": "Participación del Servicio Cívico en Jornada Comunitaria de Prevención",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/carrera.jpeg",
+    "content": "<p>Con un ambiente familiar y entusiasta, se celebró la <em>Carrera Comunitaria 10K “Soy Prevención”</em> en la zona 21 de la Ciudad de Guatemala, como parte de una jornada interinstitucional para promover la cultura de prevención y estilos de vida saludables. La actividad fue organizada por el Ministerio de Gobernación y contó con la presencia de diversas autoridades del Ejecutivo.</p><p>Durante la jornada, se brindó información detallada sobre los <strong>proyectos vigentes del Servicio Cívico</strong> para el año 2025, promoviendo la inscripción de jóvenes interesados en contribuir al desarrollo del país a través de esta valiosa iniciativa ciudadana. El personal de la Secretaría apoyó en el <strong>registro en línea</strong>, orientando a las y los participantes en el proceso de alistamiento, y resolviendo dudas sobre requisitos, beneficios y modalidades del servicio.</p><p>Con esta acción, la <strong>Secretaría Ejecutiva del Servicio Cívico</strong> reafirma su compromiso con la promoción de la cultura cívica y el fortalecimiento de la participación juvenil en acciones que construyen comunidad y fortalecen el tejido social.</p>",
+    "date": "25/05/2025"
+  },
+  {
     "id": "segunda-junta-nacional-servicio-civico-2025",
     "title": "Segunda Junta Nacional del Servicio Cívico",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/junta2.jpg",
