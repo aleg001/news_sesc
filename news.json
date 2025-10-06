@@ -1,5 +1,33 @@
 [
   {
+    "id": "feria-prevencion-landivar",
+    "title": "Promoción del Servicio Cívico en la URL",
+    "imageUrl": "https://pbs.twimg.com/media/G1Ppb3TWsAACEan?format=jpg&name=large",
+    "content": "<p>Durante la <strong>Feria de Prevención</strong> realizada en la <strong>Universidad Rafael Landívar</strong>, la <strong>Secretaría Ejecutiva del Servicio Cívico</strong> promovió el programa como una herramienta clave para la participación juvenil y la formación de liderazgos transformadores en el país.</p><p>La presencia institucional permitió informar a los estudiantes sobre los beneficios del Servicio Cívico, sus modalidades y el proceso de alistamiento, destacando su papel en el fortalecimiento del compromiso cívico y el desarrollo integral de la juventud guatemalteca.</p><p>El acercamiento con la comunidad universitaria reafirma el compromiso del Estado en fomentar espacios de participación ciudadana e impulsar a las y los jóvenes como agentes de cambio social en sus comunidades.</p>",
+    "date": "19/09/2025"
+  },
+  {
+    "id": "sbs-guatemala-agosto",
+    "title": "Acompañamiento a Servidores Cívicos de la SBS",
+    "imageUrl": "https://pbs.twimg.com/media/Gz3Mkm3XcAAklky?format=jpg&name=large",
+    "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> acompañó a las y los <strong>Servidores Cívicos de la Secretaría de Bienestar Social</strong> en el Departamento de Guatemala, destacando su compromiso y participación activa en el desarrollo del país.</p><p>Estas acciones reflejan el esfuerzo conjunto para brindar espacios de formación y servicio a la juventud guatemalteca, reafirmando su rol como agentes de cambio social.</p>",
+    "date": "02/09/2025"
+  },
+  {
+    "id": "dictamen-ley-6578",
+    "title": "Presentación del Dictamen de la Iniciativa 6578",
+    "imageUrl": "https://pbs.twimg.com/media/GzOFb7HWIAATA2A?format=jpg&name=large",
+    "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> participó en la sesión de la <strong>Comisión de la Juventud del Congreso de la República</strong>, donde se presentó el dictamen favorable a la <em>Iniciativa de Ley 6578 del Servicio Cívico</em>.</p><p>Este avance legislativo es un paso importante para la modernización del marco legal que regula el servicio cívico, fortaleciendo su alcance y garantizando mejores condiciones para las y los jóvenes participantes.</p>",
+    "date": "25/08/2025"
+  },
+  {
+    "id": "pnc-puerto-barrios",
+    "title": "Servidores Cívicos de PNC visitan escuela en Izabal",
+    "imageUrl": "https://pbs.twimg.com/media/Gy0HfglXcAEFNIq?format=jpg&name=large",
+    "content": "<p>Las y los <strong>Servidores Cívicos del Departamento de Tránsito de la PNC</strong> realizaron una jornada educativa en la <strong>Escuela Oficial de Párvulos Anexa a la Escuela Rural Mixta</strong> de la <em>Aldea Machaquitas Chiclero</em>, en Puerto Barrios, Izabal.</p><p>Durante la actividad, compartieron con las y los estudiantes temas de convivencia vial, valores cívicos y prevención, fortaleciendo el vínculo entre ciudadanía y seguridad comunitaria.</p>",
+    "date": "20/08/2025"
+  },
+  {
     "id": "galardon-jovenes-oriente-2025",
     "title": "III Edición del Galardón Jóvenes por Oriente 2025",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/oriente.jpeg",
