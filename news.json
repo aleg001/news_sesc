@@ -1,10 +1,39 @@
 [
   {
+    "id": "educacion-vial-amatitlan",
+    "title": "Jornada de Educación Vial en Amatitlán",
+    "imageUrl": "https://pbs.twimg.com/media/G4Cs4mbWUAAFacQ?format=jpg&name=4096x4096",
+    "content": "<p>Los <strong>Servidores Cívicos</strong> del Departamento de Tránsito de la <strong>Policía Nacional Civil</strong> realizaron una jornada educativa en la Escuela Oficial Rural Mixta Eduardo Prado Ponce, jornada vespertina, en el municipio de Amatitlán.</p><p>La actividad fue dirigida a más de 80 estudiantes de párvulos y primero primaria, con el objetivo de fortalecer la conciencia vial desde la niñez, como parte de la formación ciudadana que impulsa el <strong>Servicio Cívico</strong>.</p><p>Con estas acciones, se promueve una cultura de respeto y prevención en la vía pública, reafirmando el compromiso institucional con la educación vial.</p>",
+    "date": "24/10/2025"
+  },
+  {
     "id": "juntas-locales-costa-sur",
     "title": "Juntas Locales en la Costa Sur",
     "imageUrl": "https://pbs.twimg.com/media/G39ZcHQW4AAamK7?format=jpg&name=large",
     "content": "<p>Durante la presente semana, la <strong>Secretaría Ejecutiva del Servicio Cívico</strong> realizó visitas a los departamentos de <strong>Escuintla, Retalhuleu y Suchitepéquez</strong> con el objetivo de llevar a cabo las <em>Juntas Locales del Servicio Cívico</em>, conforme lo establece la ley vigente.</p><p>Estas sesiones permiten fortalecer la coordinación interinstitucional y conocer de primera mano las experiencias, avances y desafíos que enfrentan los jóvenes en la ejecución de sus proyectos como servidores cívicos.</p><p>El acercamiento territorial reafirma el compromiso institucional de garantizar una implementación efectiva del Servicio Cívico, promoviendo espacios de diálogo y mejora continua en beneficio de la juventud guatemalteca.</p>",
     "date": "23/10/2025"
+  },
+
+  {
+    "id": "cai-chiquimula",
+    "title": "Convivencia con Niñez del Chiquimula",
+    "imageUrl": "https://pbs.twimg.com/media/G3-KeLbWQAA3pQ7?format=jpg&name=large",
+    "content": "<p>En el marco de la formación integral de la niñez, los <strong>Servidores Cívicos</strong> compartieron una jornada de convivencia lúdica con niñas y niños del <strong>CAI Álida España de Arana</strong> en el departamento de Chiquimula.</p><p>La actividad incluyó dinámicas recreativas y charlas informativas sobre el rol del Servicio Cívico en el país, fomentando valores como la solidaridad, el respeto y la participación activa desde la infancia.</p><p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> agradece el apoyo de la <strong>Secretaría de Bienestar Social de la Presidencia</strong> en la creación de espacios formativos para la niñez guatemalteca.</p>",
+    "date": "23/10/2025"
+  },
+  {
+    "id": "charlas-palencia",
+    "title": "Prevención en Casa Joven de Palencia",
+    "imageUrl": "https://pbs.twimg.com/media/G3b5qskXcAAYc7S?format=jpg&name=large",
+    "content": "<p>Los <strong>Servidores Cívicos</strong> asignados a la <strong>Casa Joven Palencia</strong> desarrollaron jornadas educativas para la prevención de la violencia, la migración irregular y el embarazo en adolescentes.</p><p>Las charlas fueron impartidas en distintos centros educativos de la comunidad, como parte del compromiso del Servicio Cívico con la construcción de una juventud informada, resiliente y comprometida con su desarrollo.</p><p>Estas actividades fueron coordinadas con el acompañamiento de la <strong>Secretaría de Bienestar Social de la Presidencia</strong>.</p>",
+    "date": "18/10/2025"
+  },
+  {
+    "id": "concientizacion-gualan",
+    "title": "Concientización Vial en Zacapa",
+    "imageUrl": "https://pbs.twimg.com/media/G3PGQxgXsAAT5xF?format=jpg&name=large",
+    "content": "<p>El Departamento de Tránsito de la <strong>PNC</strong>, en coordinación con la <strong>PMT de Gualán, Zacapa</strong>, llevó a cabo una jornada de concientización vial dirigida a pilotos de moto taxis, con apoyo de los <strong>Servidores Cívicos</strong>.</p><p>La actividad promovió el uso responsable de la vía pública y la importancia del respeto a las señales de tránsito como elementos clave para la seguridad ciudadana.</p><p>El <strong>Servicio Cívico</strong> continúa impulsando acciones preventivas que fortalecen la cultura vial en el país.</p>",
+    "date": "14/10/2025"
   },
   {
     "id": "clausura-extensionismo-rural-2025",
