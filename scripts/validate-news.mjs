@@ -10,6 +10,7 @@ const newsPath = path.join(repositoryRoot, "news.json");
 const expectedId = process.argv[2];
 const expectedAsset = process.argv[3];
 const rawAssetPrefix = "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/";
+const rawDocumentPrefix = "https://raw.githubusercontent.com/aleg001/news_sesc/main/actas/";
 const errors = [];
 
 let source;
@@ -71,12 +72,26 @@ for (const [index, entry] of news.entries()) {
   }
 
   const isTikTok = entry.type === "tiktok";
+  const isActa = entry.type === "acta";
   if (isTikTok) {
     if (typeof entry.tiktokUrl !== "string" || !entry.tiktokUrl.startsWith("https://www.tiktok.com/")) {
       errors.push(`${location}: tiktokUrl inválida.`);
     }
   } else if (typeof entry.imageUrl !== "string" || entry.imageUrl.trim() === "") {
     errors.push(`${location}: falta imageUrl.`);
+  }
+
+  if (isActa) {
+    if (typeof entry.documentUrl !== "string" || !entry.documentUrl.startsWith(rawDocumentPrefix)) {
+      errors.push(`${location}: documentUrl inválida para acta.`);
+    } else {
+      const documentName = decodeURIComponent(entry.documentUrl.slice(rawDocumentPrefix.length));
+      if (!/^[a-z0-9]+(?:-[a-z0-9]+)*\.pdf$/.test(documentName)) {
+        errors.push(`${location}: nombre de acta inválido (${documentName}).`);
+      } else if (!fs.existsSync(path.join(repositoryRoot, "actas", documentName))) {
+        errors.push(`${location}: no existe actas/${documentName}.`);
+      }
+    }
   }
 
   if (typeof entry.imageUrl === "string" && entry.imageUrl.startsWith(rawAssetPrefix)) {
