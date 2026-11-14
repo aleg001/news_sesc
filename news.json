@@ -1,5 +1,12 @@
 [
   {
+    "id": "publicacion-actas-junta-nacional-servicio-civico-2026",
+    "title": "La SESC publica las actas de la Junta Nacional del Servicio Cívico",
+    "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/publicacion-actas-junta-nacional-servicio-civico-2026.png",
+    "content": "<p>La <strong>Secretaría Ejecutiva del Servicio Cívico</strong> puso a disposición de la ciudadanía las actas de la <strong>Junta Nacional del Servicio Cívico</strong> correspondientes a la administración actual, en la sección <a href=\"/actas\">Actas</a> del sitio institucional.</p><p>Esta publicación permite dar publicidad a las sesiones ordinarias y extraordinarias de la Junta Nacional y facilita la consulta de sus actas, como parte de las acciones para transparentar la gestión institucional.</p><p>La disponibilidad de estos documentos se suma a la publicación de conjuntos de datos abiertos en formato <strong>CSV</strong> en la sección <a href=\"/transparencia\">Transparencia</a>. Ambas acciones amplían el acceso a la información pública y constituyen un paso más hacia una gestión más transparente.</p>",
+    "date": "13/11/2026"
+  },
+  {
     "id": "clausura-servicio-civico-upcv-2026",
     "title": "Sebastián Hernández Matute participa en la clausura del Servicio Cívico de la UPCV",
     "imageUrl": "https://raw.githubusercontent.com/aleg001/news_sesc/main/assets/clausura-servicio-civico-upcv-2026.jpg",
